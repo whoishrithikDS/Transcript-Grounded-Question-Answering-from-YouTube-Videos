@@ -14,7 +14,7 @@ import ollama
 
 # from llm_project import vector_db
 #%%
-yt_apikey="AIzaSyAuRi2ueSdtTDIYZGEgbFNbIT4-xTyF2RA"
+yt_apikey="Enter Your YOUTUBE API KEY"
 #%%
 !pip install youtube-transcript-api
 #%%
