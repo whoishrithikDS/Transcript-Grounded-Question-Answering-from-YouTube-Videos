@@ -92,4 +92,4 @@ Retrieve top-k relevant chunks for a question
 
 Inject retrieved context into a constrained prompt
 
-Generate answer using local LLM
+Generate answer using local LLM..
